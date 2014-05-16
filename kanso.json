@@ -1,0 +1,26 @@
+{
+    "name": "urlsqueeze",
+    "home": "http://127.0.0.1:5984/microlinks/_design/microlinks/_rewrite/",
+    "version": "0.0.1",
+    "description": "toughest url crusher in the world",
+    "load": "lib/app",
+    "modules": "lib",
+    "attachments": "static",
+    "dust": {
+        "templates": "templates"
+    },
+    "duality": {
+        "base_template": "base.html"
+    },
+    "dependencies": {
+        "modules": null,
+        "properties": null,
+        "attachments": null,
+        "settings": null,
+        "duality": null,
+        "dust": null,
+        "duality-dust": null,
+        "couchtypes": null,
+	"async": null
+    }
+}
